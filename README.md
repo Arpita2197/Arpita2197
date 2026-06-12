@@ -12,8 +12,6 @@
 
 <h2 align="left">About me</h2>
 
-###
-
 <p align="left">🌱 Currently learning Spring Boot<br>💻 Passionate about Java, Spring Boot, MySQL, and Backend Development<br>🚀 Building projects to strengthen problem-solving and software development skills<br>📚 Regularly practicing Data Structures & Algorithms on LeetCode<br>🤝 Open to collaboration on Java and Spring Boot projects<br>💬 Ask me about Java, Spring Boot, MySQL, REST APIs, and OOP<br>📫 Reach me at: arpitasahu2197@gmail.com<br>⚡ Goal: To become a skilled Backend Developer and contribute to scalable applications</p>
 
 ###
